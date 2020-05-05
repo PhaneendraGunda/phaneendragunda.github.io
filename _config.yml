@@ -1,5 +1,5 @@
-title: Data Scientist
-subtitle: A Jekyll Theme Built for Developers
+title: Phaneendra Kumar Blog
+# subtitle: A Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a Jekyll Theme Built For Developers
 
@@ -34,7 +34,7 @@ typewrite-text: This is Machine Learning Blog !!!
 
 author_work_experiences:
             - company_name: Oracle
-              company_logo: oracle.png
+              company_logo: media/oracle.png
               company_url: https://oracle.com
               designation: Senior Data Scientist
               description: Working on ML and NLP initiatives
@@ -46,13 +46,13 @@ author_work_experiences:
               description: Worked on ML and NLP initiatives
               visibility: true
             - company_name: Wipro
-              company_logo: wipro.png
+              company_logo: wipro.jpg
               company_url: https://www.wipro.com/holmes/
               designation: Senior Data Scientist
               description: Worked on ML and NLP initiatives in Wipro Holmes
               visibility: true
             - company_name: Rockwell Collins
-              company_logo: rockwell.png
+              company_logo: rockwell.jpeg
               company_url: https://www.collinsaerospace.com/?_ga=2.226823069.1440800258.1588669825-1731065586.1588669825
               designation: Senior Software Engineer
               description: Worked on Headp Up and Head Down Displays
