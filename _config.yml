@@ -1,0 +1,191 @@
+title: Data Scientist
+subtitle: A Jekyll Theme Built for Developers
+description: >- # this means to ignore newlines until "baseurl:"
+  devlopr-jekyll is a Jekyll Theme Built For Developers
+
+url: "https://PhaneendraGunda.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "" # the subpath of your site, e.g. /blog
+
+urls:
+    - text: About Me
+      url: /about
+    - text: Blog
+      url: /blog
+    - text: Gallery
+      url: /gallery
+    - text: Shop
+      url : /shop
+    - text: Contact Me
+      url : /contact
+    - text: Styleguide
+      url: /styleguide
+    - text: Get Started
+      url: /get-started
+
+# Edit these details
+
+author_logo: profile.png
+author: Phaneendra Kumar
+author_bio: Hi, my name is Phaneendra Kumar
+author_email: "kumar289@gmail.com"
+author_location: India
+author_website_url: "https://PhaneendraGunda.github.io"
+typewrite-text: This is Machine Learning Blog !!!
+
+author_work_experiences:
+            - company_name: Oracle
+              company_logo: oracle.png
+              company_url: https://oracle.com
+              designation: Senior Data Scientist
+              description: Working on ML and NLP initiatives
+              visibility: true
+            - company_name: Xoriant
+              company_logo: xoriant.png
+              company_url: https://www.xoriant.com/
+              designation: Senior Data Scientist
+              description: Worked on ML and NLP initiatives
+              visibility: true
+            - company_name: Wipro
+              company_logo: wipro.png
+              company_url: https://www.wipro.com/holmes/
+              designation: Senior Data Scientist
+              description: Worked on ML and NLP initiatives in Wipro Holmes
+              visibility: true
+            - company_name: Rockwell Collins
+              company_logo: rockwell.png
+              company_url: https://www.collinsaerospace.com/?_ga=2.226823069.1440800258.1588669825-1731065586.1588669825
+              designation: Senior Software Engineer
+              description: Worked on Headp Up and Head Down Displays
+              visibility: true
+author_education_details:
+              - college_logo: mit.png
+                college_name: MIT
+                college_url: https://mit.org
+                college_degree: CS Engineer
+                description: Bachelor of Technology
+                visibility: true
+
+author_project_details:
+              - project_thumbnail: gamershub.png
+                project_title: Gamers Hub
+                project_description: A Platform built for Gamers and Game Devs
+                project_url: https://gamershub.in
+                visibility: true
+              - project_thumbnail: hack4r.PNG
+                project_title: Hack4r
+                project_description: A Platform built for Hackers and Penetration Testers
+                project_url: https://hack4r.com
+                visibility: true
+
+# social links
+twitter_username: johndoe
+github_username:  sujaykundu777
+facebook_username: johndoe
+linkedin_username: johndoe
+behance_username: johndoe
+instagram_username: johndoe
+medium_username: johndoe
+telegram_username: johndoe
+dribbble_username: johndoe
+flickr_username: johndoe
+
+#for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
+
+# disqus_shortname: sujay-kundu
+hyvor_talk_website_id: 476
+
+# wakatime username (coding activity)
+wakatime_username: sujaykundu777
+
+# mailchimp embedded form url (newsletter):
+mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+
+# formspree (contact form)
+formspree_email: johndoe@gmail.com
+
+# syntax highlighter
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# google analytics
+google_analytics: UA-46783401-10
+
+# Choose what to show ( can be true or false)
+show_author_work_experiences: true
+show_author_education_details: true
+show_author_project_details: true
+
+# algolia search
+algolia:
+  application_id: D9WA1YKTRQ
+  index_name: blog_posts # You can replace that with whatever name you want
+  files_to_exclude: []
+  nodes_to_index: 'article'
+  search_only_api_key: 58ffdd7cd6c45ec1577a7fcd789b1b9a
+
+# pagination of posts
+paginate: 4
+per_page: 4
+paginate_path: "/blog/page/:num/"
+
+# minify
+# compress_html:
+#   clippings: all
+#   comments: ["<!-- ", " -->"]
+#   endings: all
+#   ignore:
+#     envs: ['development']
+
+# Archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#   layout: archive
+#   permalinks:
+#     category: '/category/:name/'
+
+# Shop
+collections:
+ - products
+
+# Gallery
+defaults:
+  -
+    scope:
+      path: "gallery"
+    values:
+      permalink: /:path/:basename:output_ext
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-algolia
+  - jekyll-menus
+
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+destination: ./build
