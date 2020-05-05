@@ -59,12 +59,17 @@ author_work_experiences:
               visibility: true
 
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
+              - college_logo: cdac.jpeg
+                college_name: C-DAC
+                college_url: https://www.cdac.in/
+                description: PG Diploma In Embedded Systems and Design (PG-DESD)
+                visibility: true
+              - college_logo: jntu.jpg
+                college_name: JNTU
+                college_url: https://www.jntuk.edu.in/
                 description: Bachelor of Technology
                 visibility: true
+              
 
 # author_project_details:
 #               - project_thumbnail: gamershub.png
@@ -89,10 +94,10 @@ linkedin_username: phaneendra-kumar-gunda-a21b7b32
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: PhaneendraGunda
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+# mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
 formspree_email: johndoe@gmail.com
