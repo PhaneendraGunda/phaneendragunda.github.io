@@ -24,7 +24,7 @@ urls:
 
 # Edit these details
 
-author_logo: myphoto1.JPG
+author_logo: myphoto.JPG
 author: Phaneendra Kumar
 author_bio: Hi, my name is Phaneendra Kumar
 author_email: "kumar289@gmail.com"
@@ -40,7 +40,7 @@ author_work_experiences:
               description: Working on ML and NLP initiatives
               visibility: true
             - company_name: Xoriant
-              company_logo: xoriant.png
+              company_logo: xoriant.jpg
               company_url: https://www.xoriant.com/
               designation: Senior Data Scientist
               description: Worked on ML and NLP initiatives
@@ -53,7 +53,7 @@ author_work_experiences:
               visibility: true
             - company_name: Rockwell Collins
               company_logo: rockwell.jpeg
-              company_url: https://www.collinsaerospace.com/?_ga=2.226823069.1440800258.1588669825-1731065586.1588669825
+              company_url: https://www.collinsaerospace.com/
               designation: Senior Software Engineer
               description: Worked on Headp Up and Head Down Displays
               visibility: true
