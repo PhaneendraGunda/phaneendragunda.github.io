@@ -11,6 +11,8 @@ urls:
       url: /about
     - text: Blog
       url: /blog
+    - text: Resume
+      url: /resume
     # - text: Gallery
     #   url: /gallery
     # - text: Shop
@@ -27,7 +29,7 @@ urls:
 author_logo_formal: myphoto-formal.jpg
 author_logo_casual: myphoto-casual.jpg
 author: Phaneendra Kumar
-author_bio: Hi, my name is Phaneendra Kumar
+author_bio: Technology Enthusiast, Travelling, Cooking, Movies
 author_email: "kumar289@gmail.com"
 author_location: Bangalore, India
 author_website_url: "https://PhaneendraGunda.github.io"
