@@ -1,0 +1,88 @@
+I"ÿ<h3>   </h3>
+
+<div id="categories">
+
+  <div class="category-box">
+    
+    <div id="#guides"></div>
+    <h4 class="category-head"><a href="/blog/categories/guides">guides</a></h4>
+    <a name="guides"></a>
+     
+    <article class="center">
+      <h6><a href="/guides/2019/05/22/using-siteleaf/">Using Siteleaf CMS with devlopr-jekyll Blog</a></h6>
+    </article>
+
+
+    
+    <article class="center">
+      <h6><a href="/guides/tutorials/2019/05/21/deploy-blog-using-devlopr-jekyll-and-github-pages/">How to deploy devlopr-jekyll Blog using Github Pages and Travis</a></h6>
+    </article>
+
+
+    
+    
+  </div>
+
+  <div class="category-box">
+    
+    <div id="#tutorials"></div>
+    <h4 class="category-head"><a href="/blog/categories/tutorials">tutorials</a></h4>
+    <a name="tutorials"></a>
+     
+    <article class="center">
+      <h6><a href="/guides/tutorials/2019/05/21/deploy-blog-using-devlopr-jekyll-and-github-pages/">How to deploy devlopr-jekyll Blog using Github Pages and Travis</a></h6>
+    </article>
+
+
+    
+    
+  </div>
+
+  <div class="category-box">
+    
+    <div id="#jekyll"></div>
+    <h4 class="category-head"><a href="/blog/categories/jekyll">jekyll</a></h4>
+    <a name="jekyll"></a>
+     
+    <article class="center">
+      <h6><a href="/jekyll/2019/05/22/welcome-to-jekyll/">Welcome to devlopr !</a></h6>
+    </article>
+
+
+    
+    
+  </div>
+
+  <div class="category-box">
+    
+    <div id="#github"></div>
+    <h4 class="category-head"><a href="/blog/categories/github">github</a></h4>
+    <a name="github"></a>
+     
+    <article class="center">
+      <h6><a href="/github/2020/05/06/Jekyll-tutorial-with-GitHub-pages/">Jekyll tutorial with GitHub pages</a></h6>
+    </article>
+
+
+    
+    
+  </div>
+
+  <div class="category-box">
+    
+    <div id="#welcome"></div>
+    <h4 class="category-head"><a href="/blog/categories/welcome">welcome</a></h4>
+    <a name="welcome"></a>
+     
+    <article class="center">
+      <h6><a href="/welcome/2020/05/06/Welcome/">Welcome Post</a></h6>
+    </article>
+
+
+    
+    
+  </div>
+
+</div>
+
+:ET

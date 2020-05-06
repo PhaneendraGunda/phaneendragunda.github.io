@@ -1,50 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-06T13:38:57+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Phaneendra Kumar Blog</title><subtitle>devlopr-jekyll is a Jekyll Theme Built For Developers</subtitle><author><name>Phaneendra Kumar</name></author><entry><title type="html">Welcome Post</title><link href="http://localhost:4000/welcome/2020/05/06/Welcome/" rel="alternate" type="text/html" title="Welcome Post" /><published>2020-05-06T00:00:00+05:30</published><updated>2020-05-06T00:00:00+05:30</updated><id>http://localhost:4000/welcome/2020/05/06/Welcome</id><content type="html" xml:base="http://localhost:4000/welcome/2020/05/06/Welcome/">&lt;p&gt;Hello, welcome you !!!&lt;/p&gt;</content><author><name>Phaneendra</name></author><category term="welcome" /><summary type="html">Hello, welcome you !!!</summary></entry><entry><title type="html">Welcome to devlopr !</title><link href="http://localhost:4000/jekyll/2019/05/22/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to devlopr !" /><published>2019-05-22T14:35:23+05:30</published><updated>2019-05-22T14:35:23+05:30</updated><id>http://localhost:4000/jekyll/2019/05/22/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/2019/05/22/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>John Doe</name></author><category term="jekyll" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Using Siteleaf CMS with devlopr-jekyll Blog</title><link href="http://localhost:4000/guides/2019/05/22/using-siteleaf/" rel="alternate" type="text/html" title="Using Siteleaf CMS with devlopr-jekyll Blog" /><published>2019-05-22T14:35:23+05:30</published><updated>2019-05-22T14:35:23+05:30</updated><id>http://localhost:4000/guides/2019/05/22/using-siteleaf</id><content type="html" xml:base="http://localhost:4000/guides/2019/05/22/using-siteleaf/">&lt;p&gt;Hey There, Today we will see on how to unlock the superpowers of our devlopr-jekyll blog. We will be using Siteleaf CMS to modify content of our blog.&lt;/p&gt;
-
-&lt;p&gt;Note : If you have not created your blog yet. Create Your Blog , then comeback later&lt;/p&gt;
-
-&lt;p&gt;Login to &lt;a href=&quot;https://www.siteleaf.com/&quot;&gt;Siteleaf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/siteleaf/1.png&quot; alt=&quot;Using Siteleaf &quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Select Connect with Github, connect existing repository:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/siteleaf/2.png&quot; alt=&quot;Using Siteleaf &quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Select the repository of your devlopr-jekyll blog:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/siteleaf/3.png&quot; alt=&quot;Using Siteleaf &quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Connect and Create Site:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/siteleaf/4.png&quot; alt=&quot;Using Siteleaf &quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After successful import, You will be redirected to manage dashboard :&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/siteleaf/5.png&quot; alt=&quot;Using Siteleaf &quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;But before making any changes to our blog, we need to change our current Siteleaf membership plan to Free Plan (For Developers)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/siteleaf/6.png&quot; alt=&quot;Using Siteleaf &quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Select Free Plan :&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/siteleaf/8.png&quot; alt=&quot;Using Siteleaf &quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Congrats ! Your New Admin Panel for your devlopr-jekyll blog is ready to make any changes to your blog :D&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/siteleaf/9.png&quot; alt=&quot;Using Siteleaf &quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;</content><author><name>Sujay Kundu</name></author><category term="guides" /><summary type="html">Hey There, Today we will see on how to unlock the superpowers of our devlopr-jekyll blog. We will be using Siteleaf CMS to modify content of our blog.</summary></entry><entry><title type="html">How to deploy devlopr-jekyll Blog using Github Pages and Travis</title><link href="http://localhost:4000/guides/tutorials/2019/05/21/deploy-blog-using-devlopr-jekyll-and-github-pages/" rel="alternate" type="text/html" title="How to deploy devlopr-jekyll Blog using Github Pages and Travis" /><published>2019-05-21T14:35:23+05:30</published><updated>2019-05-21T14:35:23+05:30</updated><id>http://localhost:4000/guides/tutorials/2019/05/21/deploy-blog-using-devlopr-jekyll-and-github-pages</id><content type="html" xml:base="http://localhost:4000/guides/tutorials/2019/05/21/deploy-blog-using-devlopr-jekyll-and-github-pages/">&lt;p&gt;This guide assumes that you already have created your blog and tested locally. If not please follow this tutorial : &lt;a href=&quot;https://devlopr.netlify.com/guides/2017/11/19/build-a-blog-using-devlopr-jekyll&quot;&gt;Create a Blog using devlopr jekyll&lt;/a&gt;. Then come back and proceed with the deployment process.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-06T16:49:24+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Phaneendra Kumar Blog</title><subtitle>devlopr-jekyll is a Jekyll Theme Built For Developers</subtitle><author><name>Phaneendra Kumar</name></author><entry><title type="html">How to deploy devlopr-jekyll Blog using Github Pages and Travis</title><link href="http://localhost:4000/guides/github/tutorials/2019/05/21/deploy-blog-using-devlopr-jekyll-and-github-pages/" rel="alternate" type="text/html" title="How to deploy devlopr-jekyll Blog using Github Pages and Travis" /><published>2019-05-21T14:35:23+05:30</published><updated>2019-05-21T14:35:23+05:30</updated><id>http://localhost:4000/guides/github/tutorials/2019/05/21/deploy-blog-using-devlopr-jekyll-and-github-pages</id><content type="html" xml:base="http://localhost:4000/guides/github/tutorials/2019/05/21/deploy-blog-using-devlopr-jekyll-and-github-pages/">&lt;p&gt;This guide assumes that you already have created your blog and tested locally. If not please follow this tutorial : &lt;a href=&quot;https://devlopr.netlify.com/guides/2017/11/19/build-a-blog-using-devlopr-jekyll&quot;&gt;Create a Blog using devlopr jekyll&lt;/a&gt;. Then come back and proceed with the deployment process.&lt;/p&gt;
 
 &lt;p&gt;In this Guide, we are using Github Pages and Travis CI for deploying our blog. Sometimes Github Pages does not support external third party plugins. In that case we deploy our blog using Travis CI, it automatically builds our website and pushes the static files of the site to a deployment branch. Which then Github Pages uses to render the site. Hope you get it :P !&lt;/p&gt;
 
@@ -129,4 +83,342 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/posts/d6.png&quot; alt=&quot;deploy using travis&quot; class=&quot;img-fluid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Done ! Enjoy your brand new devlopr-jekyll blog. You can visit the site at https://yourusername.github.io&lt;/p&gt;</content><author><name>Sujay Kundu</name></author><category term="[&quot;guides&quot;, &quot;tutorials&quot;]" /><summary type="html">This guide assumes that you already have created your blog and tested locally. If not please follow this tutorial : Create a Blog using devlopr jekyll. Then come back and proceed with the deployment process.</summary></entry></feed>
+&lt;p&gt;Done ! Enjoy your brand new devlopr-jekyll blog. You can visit the site at https://yourusername.github.io&lt;/p&gt;</content><author><name>Sujay Kundu</name></author><category term="[&quot;guides&quot;, &quot;github&quot;, &quot;tutorials&quot;]" /><summary type="html">This guide assumes that you already have created your blog and tested locally. If not please follow this tutorial : Create a Blog using devlopr jekyll. Then come back and proceed with the deployment process.</summary></entry><entry><title type="html">Jekyll tutorial with GitHub pages</title><link href="http://localhost:4000/guides/github/tutorials/2017/09/13/Jekyll-tutorial-with-GitHub-pages/" rel="alternate" type="text/html" title="Jekyll tutorial with GitHub pages" /><published>2017-09-13T14:35:23+05:30</published><updated>2017-09-13T14:35:23+05:30</updated><id>http://localhost:4000/guides/github/tutorials/2017/09/13/Jekyll-tutorial-with-GitHub-pages</id><content type="html" xml:base="http://localhost:4000/guides/github/tutorials/2017/09/13/Jekyll-tutorial-with-GitHub-pages/">&lt;p&gt;There is a great satisfaction to set up own Blog on GitHub pages. It took me a while to gather all the information from various sources and combine it to create a stylish website.&lt;/p&gt;
+
+&lt;p&gt;This article will lead you through all the steps and explain how set up your own open, professional-looking Blog. Which is perfect to show off portfolio, share knowledge and post easy to access tech articles for your future self.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;You’ll be surprised how simple it is to combine most powerful technologies these days!&lt;/p&gt;
+
+&lt;p&gt;The guide assumes the reader has little to no knowledge of html/css/javascript/ruby/github-commands or other languages. Anybody with PC should be able to accomplish it in a few hours.&lt;/p&gt;
+
+&lt;p&gt;Without further ado… &lt;strong&gt;Let’s get started!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-1-github-pages&quot;&gt;Step 1: &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;You’ll need a github account. If you don’t yet have one, &lt;a href=&quot;github.com&quot;&gt;register it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Quick question: &lt;strong&gt;What is git?&lt;/strong&gt; - &lt;em&gt;Simply put, it is a control version manager.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Ok, let’s move on.&lt;/p&gt;
+
+&lt;p&gt;There is a Github service: &lt;a href=&quot;https://pages.github.com/&quot;&gt;pages.github.com&lt;/a&gt; conveniently allows to host a personal (or company) website with a hostname like: &lt;code class=&quot;highlighter-rouge&quot;&gt;username.github.io&lt;/code&gt;
+From here on you have 2 choices:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Follow tutorial on amazing &lt;a href=&quot;https://pages.github.com/&quot;&gt;pages.github&lt;/a&gt; main page and create a page super quickly. The drawback is less customisation.&lt;/li&gt;
+  &lt;li&gt;Follow this guide further. Understand and apply configurations. Maintain website locally.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As github pages suggest, the very first steps would be:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Head over to &lt;a href=&quot;(github.com)&quot;&gt;GitHub&lt;/a&gt; and create a new repository named username.github.io, where username is your username (or organization name) on GitHub.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/create_repo.png&quot; alt=&quot;Create Repository username.github.io&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It is important to create repository with username exactly the same as registered. No need to initialize repository with &lt;code class=&quot;highlighter-rouge&quot;&gt;ReadMe.md&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;A terminal as a git client required for further steps. &lt;a href=&quot;https://git-scm.com/download/win&quot;&gt;Get latest version here.&lt;/a&gt;
+Next item would be to configure authentication for connection to Git via Git terminal.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://help.github.com/articles/caching-your-github-password-in-git/&quot;&gt;Caching password in Git&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/&quot;&gt;Generate SSH key&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Cool!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Brace yourself! And follow carefully step by step. It is rewarding after all :)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A few basic commands to navigate through your system via the terminal:
+&lt;code class=&quot;highlighter-rouge&quot;&gt;pwd&lt;/code&gt; - shows the directory you are in
+&lt;code class=&quot;highlighter-rouge&quot;&gt;ls&lt;/code&gt; - lists files in current directory
+&lt;code class=&quot;highlighter-rouge&quot;&gt;cd&lt;/code&gt; - “change directory” - navigating to a specified directory&lt;/p&gt;
+
+&lt;p&gt;Now we’ll fetch the repository to you machine by running the command (be sure to replace &lt;em&gt;username&lt;/em&gt; with yours):&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git clone https://github.com/username/username.github.io
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This will create a directory named username.github.io inside whatever folder you are currently in. From the command name it is evident that the repository got “cloned” to your machine (yes, in fact an empty repository would be cloned and initialized locally)&lt;/p&gt;
+
+&lt;p&gt;Eventually this newly created local folder will house all &lt;code class=&quot;highlighter-rouge&quot;&gt;.html&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;.css&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;.js&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;.markdown&lt;/code&gt; pages of your website. All articles and posts edited or created locally then should be pushed to git repository to be presented on the web.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2-jekyll&quot;&gt;Step 2: Jekyll&lt;/h2&gt;
+
+&lt;p&gt;As explained on Jekyll’s &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;website&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To explain it even friendlier: Jekyll allows to make simple webpages just by writing content in templates (using Markdown language), which are automatically converted into beautiful HTML pages with mobile-friendly responsiveness. When put on github it generates a website that is hosted absolutely free!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sounds great. Lets install it!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires ruby, so as a prerequisite we need to install Ruby and all necessary Gems:
+&lt;a href=&quot;https://www.ruby-lang.org/en/downloads/&quot;&gt;Get Ruby&lt;/a&gt;
+After ruby got installed, you’ll need to open a new terminal window, to run ruby commands.
+Let’s ensure we have latest version modules, install jekyll and a bundler:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem update --system
+gem install jekyll
+gem install bundler
+bundler update
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Great!
+Now, cd to your folder &lt;code class=&quot;highlighter-rouge&quot;&gt;cd username.github.io&lt;/code&gt; and create the website:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;jekyll new .
+jekyll serve
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Several lines would be printed out, one of them would look like &lt;code class=&quot;highlighter-rouge&quot;&gt;http://localhost:4000&lt;/code&gt;. Open it in browser.
+Ta-da! Website is ready!&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3-github&quot;&gt;Step 3: &lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;In this step we’ll move entire website onto web and make it available at &lt;code class=&quot;highlighter-rouge&quot;&gt;http://username.github.io&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Remember we ran the command &lt;code class=&quot;highlighter-rouge&quot;&gt;git clone https://github.com/username/username.github.io&lt;/code&gt; - it not only cloned, but also primed our local git to a remote address (to a repository).&lt;/p&gt;
+
+&lt;p&gt;Just in case, alternative to &lt;code class=&quot;highlighter-rouge&quot;&gt;clone&lt;/code&gt; would be commands:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git init
+git remote add origin https://github.com/username/username.github.io
+git pull origin master --allow-unrelated-histories
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Now, when we create a post we want it to become available on web! It can be done using following commands.&lt;/p&gt;
+
+&lt;p&gt;First of all the pages should be built, using:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;jekyll serve
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Ensure it’s been built and looks good locally. Then run following:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git add .
+git commit -m &quot;initial commit&quot;
+git push origin master
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;You will be prompted for password upon &lt;code class=&quot;highlighter-rouge&quot;&gt;push&lt;/code&gt; to github.&lt;/p&gt;
+
+&lt;p&gt;That would be a usual set of commands when publishing.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-4-create-a-page-in-jekyll&quot;&gt;Step 4: Create a page in Jekyll&lt;/h2&gt;
+
+&lt;p&gt;The structure of a blog is very simple.
+Say, you want to create &lt;code class=&quot;highlighter-rouge&quot;&gt;About&lt;/code&gt; (or &lt;em&gt;Portfolio&lt;/em&gt; or &lt;em&gt;Contacts&lt;/em&gt;) section. Simply create &lt;code class=&quot;highlighter-rouge&quot;&gt;about.md&lt;/code&gt; page in the top level of your website, i.e. directly in your &lt;code class=&quot;highlighter-rouge&quot;&gt;username.github.io&lt;/code&gt; folder.
+In case you want to write posts, create a file in &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder with naming convention as in the example: &lt;code class=&quot;highlighter-rouge&quot;&gt;2017-09-10-New-Post.markdown&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Any text or code editor is suitable to manage &lt;code class=&quot;highlighter-rouge&quot;&gt;*.markdown&lt;/code&gt; files. However I recommend &lt;a href=&quot;https://typora.io/&quot;&gt;Typora&lt;/a&gt; as absolutely amazing Markdown editor of choice. Check it out!&lt;/p&gt;
+
+&lt;p&gt;Let’s create &lt;code class=&quot;highlighter-rouge&quot;&gt;About&lt;/code&gt; page as an example.
+Create a new file, called &lt;code class=&quot;highlighter-rouge&quot;&gt;about.md&lt;/code&gt; in your &lt;code class=&quot;highlighter-rouge&quot;&gt;username.github.io&lt;/code&gt; folder. &lt;code class=&quot;highlighter-rouge&quot;&gt;md&lt;/code&gt; stands for Markdown.
+The contents of the file would be like this:&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+layout: page
+title: about
+comments: true
+---
+![Spike](../images/Spike.jpg 'See you, Space Cowboy!')
+Hello, I'm Spike! [I travel the galaxy](https://myanimelist.net/anime/1/Cowboy_Bebop) catching for bounty constantly getting into some serious &quot;adventures&quot; with my absolutely crazy crew. *Be water, my friend* is the way of living that ensures I'm still alive.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;That snippet is a good example of Markdown text used to create pages. Markdown simple and friendly syntax will be automatically converted into a full fledged html by Jekyll. The page would look like this:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/Spike.jpg&quot; alt=&quot;Spike&quot; title=&quot;See you, Space Cowboy!&quot; /&gt;
+Hello, I’m Spike! &lt;a href=&quot;https://myanimelist.net/anime/1/Cowboy_Bebop&quot;&gt;Travelling the galaxy&lt;/a&gt; catching for bounty and constantly getting into some serious “adventures” with my amazing and crazy crew. “&lt;em&gt;Be water, my friend&lt;/em&gt;” is the way of living that ensures I’m still alive.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;File starts with text between &lt;code class=&quot;highlighter-rouge&quot;&gt;---&lt;/code&gt; lines - it is called Front Matter. That section contains some necessary details of the page, such as template, date, title.
+Next goes actual body of the page. &lt;code class=&quot;highlighter-rouge&quot;&gt;![Spike](../folder/image.jpg)&lt;/code&gt; for example inserts an image.
+&lt;code class=&quot;highlighter-rouge&quot;&gt;[Something](https://...)&lt;/code&gt; - creates an url
+A variety of syntax highlights can be used. Here is a handy &lt;a href=&quot;http://assemble.io/docs/Cheatsheet-Markdown.html&quot;&gt;Cheatsheet on Markdown&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-5-create-a-post&quot;&gt;Step 5: Create a post&lt;/h2&gt;
+
+&lt;p&gt;Creating a post or article is easy and similar to the previous step.&lt;/p&gt;
+
+&lt;p&gt;Ensure to:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;In the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder create a Markdown file, name it as following: YYYY-MM-DD-post-name.md&lt;/li&gt;
+  &lt;li&gt;In Front Matter section, set the &lt;code class=&quot;highlighter-rouge&quot;&gt;layout&lt;/code&gt; to post: &lt;code class=&quot;highlighter-rouge&quot;&gt;layout: post&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Set date and title in Front Matter&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Now, the blog post would appear on your main page!&lt;/p&gt;
+
+&lt;h4 id=&quot;preloaded-text&quot;&gt;Preloaded text&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com/docs/posts/#post-excerpts&quot;&gt;Post excerpts&lt;/a&gt; are first lines of your article content displayed on the main page.&lt;/p&gt;
+
+&lt;p&gt;By default only the first paragraph will be displayed as an excerpt. Alternatively can be controlled by setting custom separator in the Front Matter section as following:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+excerpt_separator: &amp;lt;!--more--&amp;gt;
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;step-6-adding-comments&quot;&gt;Step 6: Adding comments!&lt;/h2&gt;
+
+&lt;p&gt;We’ll use a popular service called &lt;a href=&quot;https://disqus.com/home/&quot;&gt;Disqus&lt;/a&gt;, you probably familiar with so far. So, a Disqus account is required. Go get it, if you don’t have one.&lt;/p&gt;
+
+&lt;p&gt;When we did &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new &amp;lt;PATH&amp;gt;&lt;/code&gt; command, Jekyll installed a website with &lt;em&gt;gem-based theme&lt;/em&gt; called Minima.
+What is so called &lt;em&gt;gem-based&lt;/em&gt;? Simply put, most configs, templates and theme files are stored as gems for your Ruby.
+As explained in &lt;a href=&quot;https://jekyllrb.com/docs/themes/&quot;&gt;Jekyll docs&lt;/a&gt; the goal is:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;To allow you to get all the benefits of a robust, continually updated theme without having all the theme’s files getting in your way and over-complicating what might be your primary focus: creating content.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ok, what that means for us in practice, is that we need to copy certain files from gem folder to our &lt;code class=&quot;highlighter-rouge&quot;&gt;username.github.io&lt;/code&gt; folder in order to edit it and add comments!
+Find out where gem is stored on your computer with a command &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle show minima&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;E:\Git\silversurfer0.github.io&amp;gt;bundle show minima
+C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/minima-2.1.1
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Jekyll docs explain:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;To replace layouts or includes in your theme, make a copy in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_layouts&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;_includes&lt;/code&gt; directory of the specific file you wish to modify, or create the file from scratch giving it the same name as the file you wish to override.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ok, keeping above in mind, lets do the following:
+Create &lt;code class=&quot;highlighter-rouge&quot;&gt;_includes&lt;/code&gt; folder in  &lt;code class=&quot;highlighter-rouge&quot;&gt;username.github.io&lt;/code&gt; directory. Then create a file &lt;code class=&quot;highlighter-rouge&quot;&gt;disqus_comments.html&lt;/code&gt; inside, with the contents:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/pages_github_if_page_comments.png&quot; alt=&quot;if page comments&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Any code in between these two lines will be included if Front Matter for that page has &lt;code class=&quot;highlighter-rouge&quot;&gt;comments: true&lt;/code&gt;.
+Go to &lt;a href=&quot;https://silverthread.disqus.com/admin/install/&quot;&gt;Disqus to get Universal Code&lt;/a&gt; for Jekyll and insert it between &lt;code class=&quot;highlighter-rouge&quot;&gt;if&lt;/code&gt; lines.
+Universal code looks like this:&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;div&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;disqus_thread&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/div&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;script&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;cm&quot;&gt;/**
+
+- RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+- LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/&lt;/span&gt;
+  &lt;span class=&quot;cm&quot;&gt;/*
+  var disqus_config = function () {
+  this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+  */&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// DON'T EDIT BELOW THIS LINE&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;d&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;createElement&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;script&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;src&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;https://silverthread.disqus.com/embed.js&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;setAttribute&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;data-timestamp&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;head&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;appendChild&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;})();&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/script&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;noscript&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Please&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;enable&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;JavaScript&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;view&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;the&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;comments&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;powered&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;by&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Disqus&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/noscript&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Please note, that &lt;code class=&quot;highlighter-rouge&quot;&gt;s.src&lt;/code&gt; is given for my website! Disqus should provide you with your own url.&lt;/p&gt;
+
+&lt;p&gt;Next, copy &lt;code class=&quot;highlighter-rouge&quot;&gt;post.html&lt;/code&gt; template from gem-based &lt;code class=&quot;highlighter-rouge&quot;&gt;_layouts&lt;/code&gt; to local &lt;code class=&quot;highlighter-rouge&quot;&gt;_layouts&lt;/code&gt; folder.
+In this layout template we’ll put one-line code that would include disqus comments to any post we want. So, just above the closing &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;/article&amp;gt;&lt;/code&gt; tag add the following:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/include_disqus_comments.png&quot; alt=&quot;include disqus comments&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cool!&lt;/p&gt;
+
+&lt;p&gt;Posts with &lt;code class=&quot;highlighter-rouge&quot;&gt;comments: true&lt;/code&gt; set in the Front Matter should now have comments enabled!&lt;/p&gt;
+
+&lt;h4 id=&quot;optional-set-up-comment-count&quot;&gt;Optional: &lt;strong&gt;set up comment count&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Add the following to &lt;code class=&quot;highlighter-rouge&quot;&gt;_layouts/default.html&lt;/code&gt; before the closing &lt;code class=&quot;highlighter-rouge&quot;&gt;body&lt;/code&gt; tag. Change &lt;code class=&quot;highlighter-rouge&quot;&gt;SHORTNAME&lt;/code&gt; to the Disqus shortname you are using.&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;script&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;dsq-count-scr&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;//SHORTNAME.disqus.com/count.js&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;async&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/script&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Add &lt;code class=&quot;highlighter-rouge&quot;&gt;#disqus_thread&lt;/code&gt; to the end of a URL and Disqus will count the comments on the page the link points to. For example, my &lt;code class=&quot;highlighter-rouge&quot;&gt;_layouts/post.html&lt;/code&gt; contains the following code. Note the comment count at the top of this post.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/pages_github_comment_count.png&quot; alt=&quot;pages_comment_count&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;index.html&lt;/code&gt; contains the following code to display the comment count for each post in the home page:&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;https://sgeos.github.io#disqus_thread&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Comments&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/a&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Possible reference, in case of hostname or postname migration, a &lt;a href=&quot;https://help.disqus.com/customer/portal/articles/286778-migration-tools&quot;&gt;Disqus Migration Tool&lt;/a&gt; can be used, to transfer comments if any.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-7-adding-google-analytics-for-jekyll&quot;&gt;Step 7: Adding Google Analytics for Jekyll&lt;/h2&gt;
+
+&lt;p&gt;Google Analytics is a powerful tool to see how your site performs on the web with vast capabilities, all provided by a small code snippet to be inserted into the head section of a website. Go get &lt;a href=&quot;http://analytics.google.com/&quot;&gt;unique code snippet from Google Analytics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Analytics provides several options:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;A new Website Tracking &lt;code class=&quot;highlighter-rouge&quot;&gt;gtag.js&lt;/code&gt; (Global Site Tracking). New Beta.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;analytics.js&lt;/code&gt; - a conservative choice. “&lt;em&gt;If you are not ready to upgrade to Website Tracking yet&lt;/em&gt;” - as their page says.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I stick to the newest option. It looks something like this:&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!--&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Global&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Site&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Tag&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;gtag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;js&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Google&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Analytics&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;--&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;script&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;https://www.googletagmanager.com/gtag/js?id=&amp;lt;YOUR UNIQUE ID&amp;gt;&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/script&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;script&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;dataLayer&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;dataLayer&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[];&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;gtag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;dataLayer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;arguments&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)};&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;gtag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;js&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;gtag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;YOUR&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;UNIQUE&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;ID&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/script&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Create &lt;code class=&quot;highlighter-rouge&quot;&gt;google-analytics.html&lt;/code&gt; in &lt;code class=&quot;highlighter-rouge&quot;&gt;_includes&lt;/code&gt;, and insert Google Analytics script from above.
+Next, we’ll enable it on all pages. Doing this is easy: include the google-analytics into relevant template file.&lt;/p&gt;
+
+&lt;p&gt;Copy &lt;code class=&quot;highlighter-rouge&quot;&gt;default.html&lt;/code&gt; template from gem-based &lt;code class=&quot;highlighter-rouge&quot;&gt;_layouts&lt;/code&gt; to your local &lt;code class=&quot;highlighter-rouge&quot;&gt;_layouts&lt;/code&gt; folder.
+Put this line:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/pages_github_analystics.png&quot; alt=&quot;include analytics&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;in between the opening &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; tags of the default.html file.
+&lt;strong&gt;Congratulations! We are done!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Hope this guide was helpful! We’ve gone through quite a lot of steps so far! This is rewarding!&lt;/p&gt;
+
+&lt;p&gt;Now you have a solid Blog!
+From now on this powerful tool would be perfect to share articles, cheatsheets, show off portfolio and all this in a transparent and reachable form all over the world provided by amazing github!&lt;/p&gt;
+
+&lt;p&gt;Again, a handy cheatsheet of most frequent commands.
+&lt;em&gt;First serve and build pages locally:&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;bundle exec jekyll serve
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Then upload to github:&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cd username.github.io
+git init
+git clone https://github.com/username/username.github.io.git
+git commit -m &quot;Update with my new useful article on Machine Learning&quot;
+git push origin master
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Enjoy blogging!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Your comments are highly regarded, whether it is just saying hi, weight in with appreciation, addition, edition, suggestion, rendition. Or any other form of “dition”.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;															*See you, space cowboy...*
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;sources&quot;&gt;Sources&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://briancaffey.github.io/2016/03/17/jekyll-tutorial.html&quot;&gt;Great tutorial by Brian Caffey&lt;/a&gt; - Thanks Brian!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sgeos.github.io/jekyll/disqus/2016/02/14/adding-disqus-to-a-jekyll-blog.html&quot;&gt;Sgeos for adding disqus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com/docs/home/&quot;&gt;Jekyll docs&lt;/a&gt;&lt;/p&gt;</content><author><name>Silver Surfer</name></author><category term="[&quot;guides&quot;, &quot;github&quot;, &quot;tutorials&quot;]" /><category term="tutorial" /><category term="git" /><category term="github" /><summary type="html">There is a great satisfaction to set up own Blog on GitHub pages. It took me a while to gather all the information from various sources and combine it to create a stylish website. This article will lead you through all the steps and explain how set up your own open, professional-looking Blog. Which is perfect to show off portfolio, share knowledge and post easy to access tech articles for your future self.</summary></entry></feed>

@@ -1,0 +1,10 @@
+I"â<h5> Posts by Category : Guides </h5>
+
+<div class="card">
+
+ <li class="category-posts"><span>21 May 2019</span> &nbsp; <a href="/guides/github/tutorials/2019/05/21/deploy-blog-using-devlopr-jekyll-and-github-pages/">How to deploy devlopr-jekyll Blog using Github Pages and Travis</a></li>
+
+ <li class="category-posts"><span>06 May 2019</span> &nbsp; <a href="/guides/github/tutorials/2019/05/06/Jekyll-tutorial-with-GitHub-pages/">Jekyll tutorial with GitHub pages</a></li>
+
+</div>
+:ET

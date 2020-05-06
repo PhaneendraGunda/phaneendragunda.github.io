@@ -11,7 +11,10 @@
           >
             <span class="icono-hamburger" id="navbar-hamburger"> </span>
           </button>
-          <a class="navbar-brand" href="/">{{site.title}}</a>
+          <a class="navbar-brand" href="/">
+            <!-- <img class="navbar-brand-img" src= "/assets/img/myphoto.JPG"> -->
+            <img src="/assets/img/{{ site.author_logo_formal }}" class="navbar-brand-img" />
+          </a>
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               {% for i in site.urls %}

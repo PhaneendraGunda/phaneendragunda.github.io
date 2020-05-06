@@ -24,7 +24,8 @@ urls:
 
 # Edit these details
 
-author_logo: myphoto.JPG
+author_logo_formal: myphoto-formal.jpg
+author_logo_casual: myphoto-casual.jpg
 author: Phaneendra Kumar
 author_bio: Hi, my name is Phaneendra Kumar
 author_email: "kumar289@gmail.com"
