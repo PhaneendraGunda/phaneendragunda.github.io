@@ -33,6 +33,6 @@ deploy:
   gem install travis
   travis encrypt 'GIT_NAME="PhaneendraGunda" GIT_EMAIL="kumar289@gmail.com" GH_TOKEN=YOUR_TOKEN' --add env.global --com
 
-# env:
-#   global:
-#     secure: Example
+env:
+  global:
+    secure: "TRAPGHP0wXar/e8AdKh4Tyk+Vl2r5HZ0W7Y+BAPYgQyK7VGq1tflJDJsUb1mgXD9mHrfsP5g002QmlByTVaU43Mx+XEOY2FV5cMv8llkLoqx2gSOHD1tYECmJcUmE5K5FTRRIENfj1o0jL9Iy7aRj7LDxGMNKh8hntsv836rUH8Q/fOIqADLAOY0N81b9xnaMo0+ztFMlBJooLe1uG8M8HsahtxyI/AxedSOYCv0xEVTxcnjxqSdZH/GTbV/mfBiXxWv2FZmuzYLBByZNvUM8EydYhtxLWPKbFzAidomB19yb0WxwV7pekp76CE5ReZ3aon+XUNyz0LGlL0bfHz28OLBuGFpTIZ6/FuE6ZDqffN23CUAzqN9tRxtMARuZtPn4cDIZ6Z/OzVzpLRMLea04/2bRX+Xa4kOWcIlUoIcTJFU0g1DpPfdB1JFgCt5bYhPaH7u+YLpvnBX0/g67EcAPLVaoTYWCLkm7iWjruivjNgh10odmqssHLb9Vnkhc6btLEJjYULqlG9ehiYr9Mkxh4YLY05EdLwK3DHNxCaBWLUcGFBBNoPT36/6uVkg+EUZKbTqO4En/cqRrxyGdxio+zQzlJUAlbRPAhduDwRYXMb3pwLvR40tZy+MZwjhFz5+x2QHnyrZWX10DlQHbWMU6j3CN+4KsFtCdnZ7vEVpBAw="
