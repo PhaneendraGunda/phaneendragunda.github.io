@@ -20,10 +20,10 @@ deploy:
   provider: pages
   local-dir: ./site
   target-branch: master
-  email: kumar289@gmail.com
-  name: Phaneendra
+  email: deploy@travis-ci.org
+  name: Deployment Bot
   skip-cleanup: true
-  github-token: a74e608e09f3233fc2f3c5c9d4ce0c3222eaef8b
+  github-token: $GITHUB_TOKEN
   keep-history: true
   on:
     branch: gh-pages
@@ -31,7 +31,7 @@ deploy:
 # Generate your secure token with the travis gem:
 # get Github token from your Travis CI profile page
   gem install travis
-  travis encrypt 'GIT_NAME="PhaneendraGunda" GIT_EMAIL="kumar289@gmail.com" GH_TOKEN="a74e608e09f3233fc2f3c5c9d4ce0c3222eaef8b" --add env.global --com
+  travis encrypt 'GIT_NAME="PhaneendraGunda" GIT_EMAIL="kumar289@gmail.com" GH_TOKEN=YOUR_TOKEN' --add env.global --com
 
 # env:
 #   global:
