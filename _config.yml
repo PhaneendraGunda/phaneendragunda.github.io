@@ -51,7 +51,7 @@ author_work_experiences:
             - company_name: Wipro
               company_logo: wipro.jpg
               company_url: https://www.wipro.com/holmes/
-              designation: Senior Data Scientist
+              designation: Data Scientist
               description: Worked on ML and NLP initiatives in Wipro Holmes
               visibility: true
             - company_name: Rockwell Collins
