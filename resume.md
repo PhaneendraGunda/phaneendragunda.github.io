@@ -1,6 +1,6 @@
 ---
 title: Resume
 menus: header
-layout: page
-permalink: /resume/
+layout: resume
+permalink: /resume
 ---
