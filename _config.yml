@@ -74,23 +74,28 @@ author_education_details:
                 visibility: true
 
 author_certifications:
-              - certificate_logo: cdac.jpeg
-                certificate_issuer: C-DAC
-                certificate_url: https://www.cdac.in/
-                certificate_title: PG Diploma In Embedded Systems and Design (PG-DESD)
-                visibility: true         
+              - certificate_logo: udemy.png
+                certificate_issuer: Udemy
+                certificate_url: https://www.udemy.com/certificate/UC-P8H5WY5J/
+                certificate_title: Deep Learning with PyTorch
+                visibility: true      
+              - certificate_logo: deeplearning-ai.png
+                certificate_issuer: Cousera
+                # certificate_url: https://www.udemy.com/certificate/UC-P8H5WY5J/
+                certificate_title: Deep Learning Specialisation
+                visibility: true 
 
-# author_project_details:
-#               - project_thumbnail: gamershub.png
-#                 project_title: Gamers Hub
-#                 project_description: A Platform built for Gamers and Game Devs
-#                 project_url: https://gamershub.in
-#                 visibility: true
-#               - project_thumbnail: hack4r.PNG
-#                 project_title: Hack4r
-#                 project_description: A Platform built for Hackers and Penetration Testers
-#                 project_url: https://hack4r.com
-#                 visibility: true
+author_project_details:
+              - project_thumbnail: gamershub.png
+                project_title: Gamers Hub
+                project_description: A Platform built for Gamers and Game Devs
+                project_url: https://gamershub.in
+                visibility: true
+              - project_thumbnail: hack4r.PNG
+                project_title: Hack4r
+                project_description: A Platform built for Hackers and Penetration Testers
+                project_url: https://hack4r.com
+                visibility: true
 
 # social links
 github_username:  PhaneendraGunda

@@ -1,0 +1,23 @@
+<div class="card">
+    <h1 class="card-title">Certification</h1>
+    <!-- <br /> -->
+    {% for certificate in site.author_certifications %} {% if certificate.visibility == true %}
+    <div class="row">
+      <div class="col-md-2">
+        <img
+          src="{{site.url}}{{site.baseurl}}/assets/img/{{certificate.certificate_logo}}"
+          class="certificate-logo"
+        />
+      </div>
+      <div class="col-md-8" >
+        <h6 class="title"><i class="fa fa-graduation-cap"></i>  {{certificate.certificate_title}}</h6>
+        <!-- <h6 style="padding-left: 70px;font-weight: bold;"> {{certificate.certificate_issuer}} </h6> -->
+        <!-- <h6 style="text-align: center;"> {{certificate.certificate_issuer}}</h6> -->
+        <p>
+          <a href="{{certificate.certificate_url}}" target="_blank">
+            <i class="fa fa-external-link"></i>   See Digital Certificate</a></p>
+        <p>
+      </div>
+    </div>
+    {% endif %} {% endfor %}
+  </div>
