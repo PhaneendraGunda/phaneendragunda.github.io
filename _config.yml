@@ -9,20 +9,22 @@ url: "https://PhaneendraGunda.github.io" # the base hostname & protocol for your
 urls:
     - text: About Me
       url: /about
+    - text: AI Resources
+      url: /resources
     - text: Blog
       url: /blog
     - text: Resume
       url: /resume
-    # - text: Gallery
-    #   url: /gallery
+    - text: Gallery
+      url: /gallery
     # - text: Shop
     #   url : /shop
     - text: Contact Me
       url : /contact
     # - text: Styleguide
-    #   url: /styleguide
+      # url: /styleguide
     # - text: Get Started
-    #   url: /get-started
+      # url: /get-started
 
 # Edit these details
 
