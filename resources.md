@@ -18,7 +18,6 @@ permalink: /resources/
 
 #### <a name = "Machine Learning">  <span style="color:black">Machine Learning</span> </a>
 - [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning#syllabus) By Andrew NG
-- [Practical Deep Learning](https://course.fast.ai/index.html) from Fast.ai
 
 
 #### <a name = "Deep Learning"> <span style="color:black">Deep Learning</span> </a>
