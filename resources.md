@@ -9,11 +9,11 @@ permalink: /resources/
 
 ## Resources
 
-- [Courses](#Courses)
+<!-- - [Courses](#Courses)
     - [Machine Learning](#Machine Learning)
 	- [Deep Learning](#Deep Learning)
 - [Popular Blogs](#Blogs)
-- [Popular Github Projects](#Github Projects)
+- [Popular Github Projects](#Github Projects) -->
 
 
 #### <a name = "Machine Learning">  <span style="color:black">Machine Learning</span> </a>
