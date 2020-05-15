@@ -147,12 +147,23 @@ body {
     left: 60px;
 }
 
+.resource-img {
+    width: 80%;
+    height: 60%;
+    padding-left: 35px;
+  }
+
 .certificate-logo {
     padding-left: 5px;
     padding-bottom: 10px;
     width: 100px;
     height: 100px;
 }
+
+resources-title {
+    font-size:15px;
+    margin-bottom: 0.9rem;
+  }
 
 .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto {
     padding-left: 5px !important;
@@ -471,6 +482,10 @@ header {
     margin-left:20px !important;
 }
 
+#resources-container{
+    margin-left:20px !important;
+}
+
 #article-container{
     display: grid;
     width: 100%;
@@ -592,6 +607,15 @@ header {
     margin: 20px !important;
 }
 
+
+.course-post {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+    width: 28%;
+    height: auto;
+    margin: 20px;
+}
+
 .blog-post:hover {
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
@@ -703,6 +727,12 @@ footer {
                 margin: 20px !important;
             }
 
+            .course-post {
+                width: 100%;
+                height: auto;
+                margin: 20px !important;
+            }
+
             .product{
                 width: auto;
                 float:left;
@@ -781,6 +811,12 @@ footer {
           height: auto;
           margin: 20px !important;
       }
+
+      .course-post {
+        width: 100%;
+        height: auto;
+        margin: 20px !important;
+    }
 
       .product{
           width: auto;
@@ -865,6 +901,12 @@ footer {
           }
 
           .blog-post {
+                width: 100%;
+                height: auto;
+                margin: 20px !important;
+            }
+
+            .course-post {
                 width: 100%;
                 height: auto;
                 margin: 20px !important;

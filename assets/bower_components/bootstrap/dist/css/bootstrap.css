@@ -4366,6 +4366,7 @@ input[type="button"].btn-block {
 }
 
 .card-title {
+  text-align: center;
   margin-bottom: 0.75rem;
 }
 

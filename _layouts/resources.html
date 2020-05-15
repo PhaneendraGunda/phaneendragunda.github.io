@@ -4,11 +4,134 @@ layout: default
 
 
 <div class="row">
-    <div class="col-lg-6 offset-md-3">
+    <div class="col-lg-11 offset-md-1">
         <div class="card">
-                <h1 class="card-title"> AI Resources </h1>
-                 {%- include contact_me_form.html -%}
-             </div>
+            <div class="row" id="resources-container">
+                <div class="col-lg-11 offset-md-1">
+                        <ul>
+                          <h1 class="card-title" style="text-align: center;"> Courses </h1>
+                            <div class="row">
+                                {% for resource in site.courses %}
+                                <div class="card course-post">
+                                    <img class="resource-img" src="{{site.url}}{{site.baseurl}}/assets/img/resources/{{resource.course_logo}}">
+                                    <div class="card-body center">
+                                        <a href="{{resource.course_url}}" target="_blank" style="font-size:22px;text-align: left;">
+                                            {{ resource.course_name }} </a>
+                                        <h5 style="font-size:18px; text-align: left;"> {{ resource.course_author }}</h5>
+                                        <!-- <h4 class="card-text">{{ resource.course_inistitute }} </h4> -->
+                                    </div>
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </ul>
+                </div>
+           </div>
+        </div>
+
+        <div class="card">
+            <div class="row" id="resources-container">
+                <div class="col-lg-10 offset-md-1">
+                        <ul>
+                        <h1 class="card-title" style="text-align: center;"> Blogs </h1>
+                            <div class="row">
+                                <ul>
+                                    {% for blog in site.blogs %}
+                                    <li>
+                                        <a href="{{blog.url}}" target="_blank" style="font-size:25px">
+                                            {{ blog.author }} </a>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </ul>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="card">
+            <div class="row" id="resources-container">
+                <div class="col-lg-10 offset-md-1">
+                        <ul>
+                        <h1 class="card-title" style="text-align: center;"> Github projects </h1>
+                            <div class="row">
+                                <ul>
+                                    {% for project in site.github_projects %}
+                                    <li>
+                                        <a href="{{project.url}}" target="_blank" style="font-size:25px">
+                                            {{ project.name }} </a>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </ul>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="card">
+            <div class="row" id="resources-container">
+                <div class="col-lg-10 offset-md-1">
+                        <ul>
+                        <h1 class="card-title" style="text-align: center;"> Cheat Sheets </h1>
+                            <div class="row">
+                                <ul>
+                                    {% for sheet in site.cheat_sheets %}
+                                    <li>
+                                        <a href="{{sheet.url}}" target="_blank" style="font-size:25px">
+                                            {{ sheet.name }} </a>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </ul>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="card">
+            <div class="row" id="resources-container">
+                <div class="col-lg-10 offset-md-1">
+                        <ul>
+                        <h1 class="card-title" style="text-align: center;"> Datasets </h1>
+                            <div class="row">
+                                <ul>
+                                    {% for dataset in site.Datasets %}
+                                    <li>
+                                        <a href="{{dataset.url}}" target="_blank" style="font-size:25px">
+                                            {{ dataset.name }} </a>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </ul>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="card">
+            <div class="row" id="resources-container">
+                <div class="col-lg-10 offset-md-1">
+                        <ul>
+                        <h1 class="card-title" style="text-align: center;"> Books </h1>
+                            <div class="row">
+                                <ul>
+                                    {% for book in site.books %}
+                                    <li>
+                                        <a href="{{book.url}}" target="_blank" style="font-size:25px">
+                                            {{ book.name }} </a>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </ul>
+                </div>
+            </div>
+        </div>
+
     </div>
 </div>
 

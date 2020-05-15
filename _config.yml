@@ -99,6 +99,111 @@ author_project_details:
                 project_url: https://hack4r.com
                 visibility: true
 
+courses:
+      - course_name: Machine Learning
+        course_author: By Andrew Ng
+        course_inistitute: Coursera
+        course_logo: Coursera.jpeg
+        course_url: https://www.coursera.org/learn/machine-learning
+      - course_name: Deep Learning Specialisation
+        course_author: By Andrew Ng
+        course_inistitute: deeplearning.ai
+        course_logo: deeplearning-ai.png
+        course_url: https://www.deeplearning.ai/deep-learning-specialization/
+      - course_name: NLP with Deep Learning
+        course_author: By Chris Manning
+        course_inistitute: Stanford
+        course_logo: stanford.png
+        course_url: http://web.stanford.edu/class/cs224n/
+      - course_name: Practical Deep Learning
+        course_author: By Jeremy Howard
+        course_inistitute:  Fast.ai
+        course_logo: fast-ai.png
+        course_url: https://course.fast.ai/index.html
+      - course_name: The Python Tutorial
+        course_author: By Python.org
+        course_inistitute:  Python.org
+        course_logo: python.jpeg
+        course_url: https://docs.python.org/3/tutorial/
+      - course_name: Linear Algebra
+        course_author: by MIT Prof. Gilbert Strang
+        course_inistitute:  MIT
+        course_logo: mit.png
+        course_url: https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+      - course_name: Linear Algebra
+        course_author: By Khan Academy
+        course_inistitute: Khan Academy
+        course_logo: khan-academy.png
+        course_url: https://www.khanacademy.org/math/linear-algebra
+      - course_name: Statistics and Probability
+        course_author: By Khan Academy
+        course_inistitute: Khan Academy
+        course_logo: khan-academy.png
+        course_url: https://www.khanacademy.org/math/statistics-probability
+
+blogs:
+    - author: Andrej Karpathy blog
+      url : http://karpathy.github.io/
+    - author: Machine Learning Mastery
+      url : https://machinelearningmastery.com/blog/
+    - author: Towards Data Science
+      url : https://towardsdatascience.com/
+    - author: Christopher Olah
+      url : http://colah.github.io/
+    - author: Made with ML
+      url : https://madewithml.com/
+    - author: I am trask
+      url : http://iamtrask.github.io/
+    - author: Wild ML
+      url : http://www.wildml.com/
+    - author: Depends on the definition
+      url : https://www.depends-on-the-definition.com/
+    - author: Sebastian Ruder
+      url : https://ruder.io/
+    - author: Artificial Intellegence Wiki
+      url : https://pathmind.com/wiki/
+    - author: Chris McCormick 
+      url: http://mccormickml.com/archive/
+    - author: Luis Serrano's Blog
+      url: https://serrano.academy/
+
+github_projects:
+              - name: Keras Idiomatic Programmer
+                url: https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer
+              - name: Fast book from Fast.ai
+                url: https://github.com/fastai/fastbook
+              - name: A carefully curated list of NLP paper summaries
+                url: (https://github.com/dair-ai/nlp_paper_summaries
+              - name: Progress in Natural Language Processing (NLP)
+                url: https://github.com/sebastianruder/NLP-progress
+
+cheat_sheets:
+          - name: Python for DS cheat sheet
+            url: http://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf
+          - name: Machine Learning cheat sheet
+            url: https://stanford.edu/~shervine/teaching/cs-229/
+          - name: PyTorch cheat sheet
+            url: https://pytorch.org/tutorials/beginner/ptcheat.html
+
+
+Datasets:
+        - name: UCI Machine Learning Repository
+          url: http://archive.ics.uci.edu/ml/index.php
+        - name: Kaggle Datasets
+          url: https://www.kaggle.com/datasets
+        - name: Google Dataset Search
+          url: https://datasetsearch.research.google.com/
+        - name: World Bank Open Data
+          url: https://data.worldbank.org/
+
+
+books:
+    - name: François Chollet
+      url: https://livebook.manning.com/book/deep-learning-with-python?origin=product-look-inside
+    - name: Natural Language Processing with Python
+      url: https://github.com/ShawnLeee/the-book/blob/master/pybooks/Natural%20Language%20Processing%20with%20Python.pdf
+
+
 # social links
 github_username:  PhaneendraGunda
 facebook_username: Phaneendra.kumar.Gunda
