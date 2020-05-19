@@ -10,5 +10,7 @@ thumbnail: bert.png
 
 ---
 
-Click [here](https://colab.research.google.com/github/PhaneendraGunda/PhaneendraGunda.github.io/blob/master/notebooks/NER_Bert_Transformers.ipynb) to open the jupyter notebook 
+Click <a href="https://colab.research.google.com/github/PhaneendraGunda/PhaneendraGunda.github.io/blob/master/notebooks/NER_Bert_Transformers.ipynb" target="_blank">here</a> to open the jupyter notebook 
+
+
 
