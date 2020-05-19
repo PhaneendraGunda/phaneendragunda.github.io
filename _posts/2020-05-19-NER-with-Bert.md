@@ -10,4 +10,5 @@ thumbnail: bert.png
 
 ---
 
-[Build NER model with BERT]https://nbviewer.jupyter.org/github/PhaneendraGunda/PhaneendraGunda.github.io/blob/master/notebooks/NER_Bert_Transformers.ipynb)
+Click [here](https://colab.research.google.com/github/PhaneendraGunda/PhaneendraGunda.github.io/blob/master/notebooks/NER_Bert_Transformers.ipynb) to open the jupyter notebook 
+
