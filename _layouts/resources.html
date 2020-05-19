@@ -37,7 +37,7 @@ layout: default
                                 <ul>
                                     {% for blog in site.blogs %}
                                     <li>
-                                        <a href="{{blog.url}}" target="_blank" style="font-size:25px">
+                                        <a href="{{blog.url}}" target="_blank" style="font-size:23px">
                                             {{ blog.author }} </a>
                                     </li>
                                     {% endfor %}
@@ -58,7 +58,7 @@ layout: default
                                 <ul>
                                     {% for project in site.github_projects %}
                                     <li>
-                                        <a href="{{project.url}}" target="_blank" style="font-size:25px">
+                                        <a href="{{project.url}}" target="_blank" style="font-size:23px">
                                             {{ project.name }} </a>
                                     </li>
                                     {% endfor %}
@@ -79,7 +79,7 @@ layout: default
                                 <ul>
                                     {% for sheet in site.cheat_sheets %}
                                     <li>
-                                        <a href="{{sheet.url}}" target="_blank" style="font-size:25px">
+                                        <a href="{{sheet.url}}" target="_blank" style="font-size:23px">
                                             {{ sheet.name }} </a>
                                     </li>
                                     {% endfor %}
@@ -100,7 +100,7 @@ layout: default
                                 <ul>
                                     {% for dataset in site.Datasets %}
                                     <li>
-                                        <a href="{{dataset.url}}" target="_blank" style="font-size:25px">
+                                        <a href="{{dataset.url}}" target="_blank" style="font-size:23px">
                                             {{ dataset.name }} </a>
                                     </li>
                                     {% endfor %}
@@ -121,8 +121,29 @@ layout: default
                                 <ul>
                                     {% for book in site.books %}
                                     <li>
-                                        <a href="{{book.url}}" target="_blank" style="font-size:25px">
+                                        <a href="{{book.url}}" target="_blank" style="font-size:23px">
                                             {{ book.name }} </a>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </ul>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="card">
+            <div class="row" id="resources-container">
+                <div class="col-lg-10 offset-md-1">
+                        <ul>
+                        <h1 class="card-title" style="text-align: center;"> Papers </h1>
+                            <div class="row">
+                                <ul>
+                                    {% for paper in site.papers %}
+                                    <li>
+                                        <a href="{{paper.url}}" target="_blank" style="font-size:23px">
+                                            {{ paper.name }} </a>
                                     </li>
                                     {% endfor %}
                                 </ul>

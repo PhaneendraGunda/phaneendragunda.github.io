@@ -204,6 +204,21 @@ books:
       url: https://github.com/PhaneendraGunda/PhaneendraGunda.github.io/blob/master/books/Natural%20Language%20Processing%20with%20Python.pdf
 
 
+papers:
+      - name: Attention Is All You Need - Transformers
+        url: https://arxiv.org/abs/1706.03762
+      - name: BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding
+        url: https://arxiv.org/abs/1810.04805
+      - name: Movement Pruning - Adaptive Sparsity by Fine-Tuning
+        url: https://arxiv.org/abs/2005.07683v1
+      - name: TAPAS - Weakly Supervised Table Parsing via Pre-training
+        url: https://arxiv.org/abs/2004.02349
+      - name: Transfer Learning with a Unified Text-to-Text Transfer Transformer (T5)
+        url: https://arxiv.org/abs/1910.10683
+      - name: BERT for Extractive Text Summarization on Lectures
+        url: https://arxiv.org/abs/1906.04165
+
+
 # social links
 github_username:  PhaneendraGunda
 facebook_username: Phaneendra.kumar.Gunda
@@ -211,7 +226,7 @@ linkedin_username: phaneendra-kumar-gunda-a21b7b32
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
-# disqus_shortname: sujay-kundu
+disqus_shortname: sujay-kundu
 # hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
@@ -229,7 +244,7 @@ highlighter: rouge
 permalink: pretty
 
 # google analytics
-# google_analytics: UA-46783401-10
+google_analytics: UA-167082749-1
 
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
