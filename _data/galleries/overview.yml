@@ -3,7 +3,17 @@
   directory: mountains
   preview:
     filename: 1.jpg
-    original: 1-thumbnail.jpg
+    original: 1_gallery_preview.jpg
     sizes:
-    - 1-thumbnail.jpg
-    thumbnail: 1-thumbnail.jpg
+    - 1_gallery_preview.jpg
+    thumbnail: 1_gallery_preview.jpg
+
+-
+  title: Paintings
+  directory: paintings
+  preview:
+    filename: couple_1.jpg
+    original: couple_1_gallery_preview.jpg
+    sizes:
+    - couple_1_gallery_preview.jpg
+    thumbnail: couple_1_gallery_preview.jpg

@@ -237,6 +237,12 @@ header {
     background-color: var(--card-background-color) !important;
 }
 
+.image-card {
+    margin: 20px !important;
+    padding: 20px !important;
+    background-color: var(--card-background-color) !important;
+}
+
 #topNav{
     padding-left: 100px;
     padding-right: 100px;
@@ -290,8 +296,8 @@ header {
 }
 
 #blog-post-container{
-    margin-top: -20px;
-    margin-left: -35px;
+    margin-top: 5px;
+    margin-left: 0px;
 }
 
 .snipcart-modal__container {

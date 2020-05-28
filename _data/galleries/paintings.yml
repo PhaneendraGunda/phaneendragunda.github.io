@@ -1,0 +1,27 @@
+picture_path: paintings
+pictures:
+- filename: mother_kid_1
+  original: mother_kid_1.jpg
+  sizes:
+  - mother_kid_1.jpg
+  thumbnail: mother_kid_1_thumbnail.jpg
+- filename: couple_1
+  original: couple_1.jpg
+  sizes:
+  - couple_1.jpg
+  thumbnail: couple_1_thumbnail.jpg
+- filename: friends_1
+  original: friends_1.jpg
+  sizes:
+  - friends_1.jpg
+  thumbnail: friends_1_thumbnail.jpg
+- filename: friends_2
+  original: friends_2.jpg
+  sizes:
+  - friends_2.jpg
+  thumbnail: friends_2_thumbnail.jpg
+- filename: mother_kid_2
+  original: mother_kid_2.jpg
+  sizes:
+  - mother_kid_2.jpg
+  thumbnail: mother_kid_2_thumbnail.jpg
