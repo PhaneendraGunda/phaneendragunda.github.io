@@ -1,12 +1,15 @@
 ---
 layout: post
+author: Phaneendra Kumar
 title: Layer-wise analysis of Transformer Representations
-category:
-        - nlp
-        - bert
-        - transformers
-        - QnA
+date: 2020-06-04T06:01:33.220Z
 thumbnail: bert_logo.jpeg
+category:
+  - nlp
+  - bert
+  - transformers
+  - QnA
+summary: Layer-wise analysis of Transformers with QnA downstream task as example.
 ---
 
 Paper : [How Does BERT Answer Questions?](https://arxiv.org/pdf/1909.04925.pdf)
