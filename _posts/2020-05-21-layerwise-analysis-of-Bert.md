@@ -3,9 +3,9 @@ layout: post
 title: Layer-wise analysis of Transformer Representations
 category:
         - nlp
-        - bert analysis
+        - bert
         - transformers
-        - question answering
+        - QnA
 thumbnail: bert_logo.jpeg
 ---
 

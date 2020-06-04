@@ -142,6 +142,8 @@ courses:
         course_url: https://www.khanacademy.org/math/statistics-probability
 
 blogs:
+    - author: Jay Alammar
+      url: https://jalammar.github.io/
     - author: Andrej Karpathy blog
       url : http://karpathy.github.io/
     - author: Machine Learning Mastery
@@ -176,6 +178,8 @@ github_projects:
                 url: (https://github.com/dair-ai/nlp_paper_summaries
               - name: Progress in Natural Language Processing (NLP)
                 url: https://github.com/sebastianruder/NLP-progress
+              - name: A collection of various deep learning architectures, models, and tips
+                url: https://github.com/rasbt/deeplearning-models
 
 cheat_sheets:
           - name: Python for DS cheat sheet
@@ -281,12 +285,12 @@ paginate_path: "/blog/page/:num/"
 #     envs: ['development']
 
 # Archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#   layout: archive
-#   permalinks:
-#     category: '/category/:name/'
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
 
 # Shop
 collections:

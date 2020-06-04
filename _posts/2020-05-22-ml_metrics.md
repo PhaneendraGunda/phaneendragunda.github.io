@@ -4,7 +4,6 @@ title: Machine Learning evaluation metrics
 category:
         - nlp
         - metrics
-
 thumbnail: ml_metrics.jpg
 ---
 
